@@ -1,0 +1,1666 @@
+Python 3.6.3 (v3.6.3:2c5fed8, Oct  3 2017, 18:11:49) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Lucinha.PAULONUNO-PC\Google drive Nuno\Crypto\Python\bitcoin_price_api_master\bitfinex_python.py 
+BraveNewCoin get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.66%
+
+Bitstamp: 0.02118001   BUY
+Bitfinex: 0.021293
+Kraken: 0.02132000   SELL
+Poloniex: 0.02126401
+
+2018-02-25 01:21:53.636341
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02118001   BUY
+Bitfinex: 0.021293
+Kraken: 0.02134700   SELL
+Poloniex: 0.02127400
+
+2018-02-25 01:22:03.651834
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.66%
+
+Bitstamp: 0.02118001   BUY
+Bitfinex: 0.021293
+Kraken: 0.02132000   SELL
+Poloniex: 0.02127400
+
+2018-02-25 01:22:13.928096
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.66%
+
+Bitstamp: 0.02118001   BUY
+Bitfinex: 0.021293
+Kraken: 0.02132000   SELL
+Poloniex: 0.02127400
+
+2018-02-25 01:22:23.150780
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.66%
+
+Bitstamp: 0.02118001   BUY
+Bitfinex: 0.021293
+Kraken: 0.02132000   SELL
+Poloniex: 0.02125300
+
+2018-02-25 01:22:33.900537
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.63%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02136500   SELL
+Poloniex: 0.02131921
+
+2018-02-25 01:26:48.231503
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.63%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02136500   SELL
+Poloniex: 0.02131918
+
+2018-02-25 01:26:56.792389
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.63%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02136500   SELL
+Poloniex: 0.02132441
+
+2018-02-25 01:27:06.764086
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.63%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02136500   SELL
+Poloniex: 0.02131921
+
+2018-02-25 01:27:15.653172
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02136200   SELL
+Poloniex: 0.02131921
+
+2018-02-25 01:27:24.785451
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02136100   SELL
+Poloniex: 0.02131921
+
+2018-02-25 01:27:33.724649
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.63%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02136500   SELL
+Poloniex: 0.02131921
+
+2018-02-25 01:27:43.955481
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021332
+Kraken: 0.02137900   SELL
+Poloniex: 0.02132440
+
+2018-02-25 01:27:53.065620
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02133023
+
+2018-02-25 01:28:03.243277
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02133023
+
+2018-02-25 01:28:12.038412
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02132910
+
+2018-02-25 01:28:20.758546
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02132910
+
+2018-02-25 01:28:31.986218
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02133022
+
+2018-02-25 01:28:41.173859
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02133022
+
+2018-02-25 01:28:50.464002
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02133022
+
+2018-02-25 01:28:59.589142
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02137900   SELL
+Poloniex: 0.02134003
+
+2018-02-25 01:29:11.569326
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.73%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02135700
+Poloniex: 0.02138800   SELL
+
+2018-02-25 01:29:44.754836
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.73%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02135700
+Poloniex: 0.02138800   SELL
+
+2018-02-25 01:29:55.445000
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.73%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02135
+Kraken: 0.02135700
+Poloniex: 0.02138800   SELL
+
+2018-02-25 01:30:05.442654
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.71%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02136
+Kraken: 0.02135700
+Poloniex: 0.02138400   SELL
+
+2018-02-25 01:30:54.268404
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02139
+Kraken: 0.02138400
+Poloniex: 0.02140000   SELL
+
+2018-02-25 01:31:03.781050
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02139
+Kraken: 0.02138400
+Poloniex: 0.02140000   SELL
+
+2018-02-25 01:31:12.188679
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02139
+Kraken: 0.02138400
+Poloniex: 0.02140000   SELL
+
+2018-02-25 01:31:25.383499
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.02139
+Kraken: 0.02135700
+Poloniex: 0.02140000   SELL
+
+2018-02-25 01:31:36.381168
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.80%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021394
+Kraken: 0.02135700
+Poloniex: 0.02140308   SELL
+
+2018-02-25 01:31:47.103833
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.80%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021402
+Kraken: 0.02135700
+Poloniex: 0.02140308   SELL
+
+2018-02-25 01:31:56.408976
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.80%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021402
+Kraken: 0.02135700
+Poloniex: 0.02140308   SELL
+
+2018-02-25 01:32:07.804151
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.80%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021402
+Kraken: 0.02135700
+Poloniex: 0.02140308   SELL
+
+2018-02-25 01:32:17.971807
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.80%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021402
+Kraken: 0.02135700
+Poloniex: 0.02140308   SELL
+
+2018-02-25 01:32:27.089081
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.80%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021402   SELL
+Kraken: 0.02135700
+Poloniex: 0.02134068
+
+2018-02-25 01:32:36.345662
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.80%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021402   SELL
+Kraken: 0.02138000
+Poloniex: 0.02134068
+
+2018-02-25 01:32:45.585586
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.70%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021349
+Kraken: 0.02138000   SELL
+Poloniex: 0.02134068
+
+2018-02-25 01:32:54.066879
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.70%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021349
+Kraken: 0.02138000   SELL
+Poloniex: 0.02134068
+
+2018-02-25 01:33:03.392749
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.70%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021349
+Kraken: 0.02138000   SELL
+Poloniex: 0.02131929
+
+2018-02-25 01:33:12.023540
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.70%
+
+Bitstamp: 0.02123220   BUY
+Bitfinex: 0.021349
+Kraken: 0.02130900
+Poloniex: 0.02138000   SELL
+
+2018-02-25 01:33:31.113833
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02108098
+Bitfinex: 0.02106
+Kraken: 0.02113000   SELL
+Poloniex: 0.02100039   BUY
+
+2018-02-25 02:44:05.659126
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114400   SELL
+Poloniex: 0.02110003
+
+2018-02-25 03:43:53.494131
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114400   SELL
+Poloniex: 0.02111000
+
+2018-02-25 03:44:04.761776
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114400   SELL
+Poloniex: 0.02111000
+
+2018-02-25 03:44:15.958416
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114400   SELL
+Poloniex: 0.02109501
+
+2018-02-25 03:44:27.521078
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114200   SELL
+Poloniex: 0.02109501
+
+2018-02-25 03:44:37.317638
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114200   SELL
+Poloniex: 0.02109501
+
+2018-02-25 03:44:46.787179
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114200   SELL
+Poloniex: 0.02107001
+
+2018-02-25 03:45:00.482963
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021123
+Kraken: 0.02114200   SELL
+Poloniex: 0.02107001
+
+2018-02-25 03:45:10.349527
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021129
+Kraken: 0.02114200   SELL
+Poloniex: 0.02111663
+
+2018-02-25 03:45:19.117029
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021117
+Kraken: 0.02114200   SELL
+Poloniex: 0.02111699
+
+2018-02-25 03:45:28.863586
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021117
+Kraken: 0.02114200   SELL
+Poloniex: 0.02106500
+
+2018-02-25 03:45:38.627145
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021127
+Kraken: 0.02114200   SELL
+Poloniex: 0.02106500
+
+2018-02-25 03:45:49.285754
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.76%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.02116   SELL
+Kraken: 0.02114200
+Poloniex: 0.02108000
+
+2018-02-25 03:45:57.793579
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.84%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021177   SELL
+Kraken: 0.02114200
+Poloniex: 0.02108000
+
+2018-02-25 03:46:07.178724
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.84%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021177   SELL
+Kraken: 0.02114200
+Poloniex: 0.02111699
+
+2018-02-25 03:46:19.761853
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.84%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021177   SELL
+Kraken: 0.02114200
+Poloniex: 0.02111700
+
+2018-02-25 03:46:29.625417
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021146   SELL
+Kraken: 0.02114200
+Poloniex: 0.02111700
+
+2018-02-25 03:46:40.723052
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021146   SELL
+Kraken: 0.02114200
+Poloniex: 0.02111700
+
+2018-02-25 03:46:51.474667
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.69%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021146   SELL
+Kraken: 0.02114200
+Poloniex: 0.02111700
+
+2018-02-25 03:47:00.949209
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021143   SELL
+Kraken: 0.02114200
+Poloniex: 0.02111700
+
+2018-02-25 03:47:10.227740
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021143   SELL
+Kraken: 0.02114200
+Poloniex: 0.02112606
+
+2018-02-25 03:47:18.415208
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021143   SELL
+Kraken: 0.02114200
+Poloniex: 0.02112606
+
+2018-02-25 03:47:27.585732
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021143   SELL
+Kraken: 0.02114200
+Poloniex: 0.02112100
+
+2018-02-25 03:47:36.749256
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021143   SELL
+Kraken: 0.02114200
+Poloniex: 0.02112100
+
+2018-02-25 03:47:45.750771
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021143   SELL
+Kraken: 0.02113600
+Poloniex: 0.02112100
+
+2018-02-25 03:47:55.012301
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.65%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02113600   SELL
+Poloniex: 0.02112100
+
+2018-02-25 03:48:04.193826
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.65%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021121
+Kraken: 0.02113600   SELL
+Poloniex: 0.02112100
+
+2018-02-25 03:48:13.103336
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112100
+
+2018-02-25 03:48:22.974900
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112100
+
+2018-02-25 03:48:32.152425
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112100
+
+2018-02-25 03:48:41.239945
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112605
+
+2018-02-25 03:48:50.706487
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112605
+
+2018-02-25 03:49:00.163027
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02116500   SELL
+Poloniex: 0.02111699
+
+2018-02-25 03:49:09.630569
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021122
+Kraken: 0.02116500   SELL
+Poloniex: 0.02111699
+
+2018-02-25 03:49:18.184058
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021138
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112593
+
+2018-02-25 03:49:26.747548
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021108
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112587
+
+2018-02-25 03:49:35.416044
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021108
+Kraken: 0.02116500   SELL
+Poloniex: 0.02111699
+
+2018-02-25 03:49:44.299552
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021108
+Kraken: 0.02116500   SELL
+Poloniex: 0.02111699
+
+2018-02-25 03:49:52.666030
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021108
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112200
+
+2018-02-25 03:50:02.820611
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021108
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113703
+
+2018-02-25 03:50:12.506165
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021108
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113903
+
+2018-02-25 03:50:21.503680
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021142
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113903
+
+2018-02-25 03:50:30.660204
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021142
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113915
+
+2018-02-25 03:50:39.940734
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021127
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113915
+
+2018-02-25 03:50:48.515225
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113915
+
+2018-02-25 03:50:58.688807
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113915
+
+2018-02-25 03:51:08.248354
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113915
+
+2018-02-25 03:51:17.552886
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113703
+
+2018-02-25 03:51:26.319387
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113703
+
+2018-02-25 03:51:35.188894
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021144
+Kraken: 0.02116500   SELL
+Poloniex: 0.02113703
+
+2018-02-25 03:51:43.946395
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021144
+Kraken: 0.02116500   SELL
+Poloniex: 0.02114003
+
+2018-02-25 03:51:53.415937
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02114003
+
+2018-02-25 03:52:02.480455
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02114003
+
+2018-02-25 03:52:12.739042
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.93%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500
+Poloniex: 0.02119475   SELL
+
+2018-02-25 03:52:21.933568
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.93%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500
+Poloniex: 0.02119475   SELL
+
+2018-02-25 03:52:30.993086
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.93%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500
+Poloniex: 0.02119475   SELL
+
+2018-02-25 03:52:40.389624
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02116009
+
+2018-02-25 03:52:49.577149
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.78%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500   SELL
+Poloniex: 0.02112700
+
+2018-02-25 03:52:58.847679
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.19%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021145
+Kraken: 0.02116500
+Poloniex: 0.02124989   SELL
+
+2018-02-25 03:53:08.010204
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.19%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021145
+Kraken: 0.02116500
+Poloniex: 0.02124989   SELL
+
+2018-02-25 03:53:16.661698
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.19%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183
+Kraken: 0.02116500
+Poloniex: 0.02124989   SELL
+
+2018-02-25 03:53:24.922171
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.09%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183
+Kraken: 0.02116500
+Poloniex: 0.02122979   SELL
+
+2018-02-25 03:53:34.429715
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.09%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183
+Kraken: 0.02116500
+Poloniex: 0.02122979   SELL
+
+2018-02-25 03:53:43.587238
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.09%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183
+Kraken: 0.02116500
+Poloniex: 0.02122979   SELL
+
+2018-02-25 03:53:52.577753
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.87%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183   SELL
+Kraken: 0.02116500
+Poloniex: 0.02117700
+
+2018-02-25 03:54:02.088297
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.87%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183   SELL
+Kraken: 0.02116500
+Poloniex: 0.02118201
+
+2018-02-25 03:54:11.145815
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.89%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183
+Kraken: 0.02116500
+Poloniex: 0.02118700   SELL
+
+2018-02-25 03:54:20.221334
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.87%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021183   SELL
+Kraken: 0.02116500
+Poloniex: 0.02116600
+
+2018-02-25 03:54:30.076897
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021156
+Kraken: 0.02116500
+Poloniex: 0.02116600   SELL
+
+2018-02-25 03:54:39.050411
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02116500
+Poloniex: 0.02116600   SELL
+
+2018-02-25 03:54:47.811912
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.86%
+
+Bitstamp: 0.02100049   BUY
+Bitfinex: 0.021148
+Kraken: 0.02111000
+Poloniex: 0.02118103   SELL
+
+2018-02-25 03:54:57.385459
+
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02111902   BUY
+Bitfinex: 0.021142
+Kraken: 0.02116500
+Poloniex: 0.02125099   SELL
+
+2018-02-25 03:57:14.132281
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02113100   SELL
+Bitfinex: 0.021029
+Kraken: 0.02106200
+Poloniex: 0.02100199   BUY
+
+2018-02-25 05:45:55.881304
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02113100   SELL
+Bitfinex: 0.021043
+Kraken: 0.02107000
+Poloniex: 0.02100199   BUY
+
+2018-02-25 05:46:05.143833
+
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02119889   SELL
+Bitfinex: 0.021193
+Kraken: 0.02117300
+Poloniex: 0.02107003   BUY
+
+2018-02-25 06:07:51.048527
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02113099
+Bitfinex: 0.021109
+Kraken: 0.02119800   SELL
+Poloniex: 0.02106769   BUY
+
+2018-02-25 06:10:03.153083
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02113099
+Bitfinex: 0.021108
+Kraken: 0.02119800   SELL
+Poloniex: 0.02106772   BUY
+
+2018-02-25 06:10:43.137370
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02113099
+Bitfinex: 0.021108
+Kraken: 0.02119800   SELL
+Poloniex: 0.02106780   BUY
+
+2018-02-25 06:10:53.641971
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02113099
+Bitfinex: 0.021108
+Kraken: 0.02119800   SELL
+Poloniex: 0.02106780   BUY
+
+2018-02-25 06:11:03.607541
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02113099
+Bitfinex: 0.021091
+Kraken: 0.02119800   SELL
+Poloniex: 0.02106780   BUY
+
+2018-02-25 06:11:12.374042
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.64%
+
+Bitstamp: 0.02124579   SELL
+Bitfinex: 0.021139
+Kraken: 0.02111700
+Poloniex: 0.02111132   BUY
+
+2018-02-25 06:26:07.682251
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.68%
+
+Bitstamp: 0.02106571   BUY
+Bitfinex: 0.021173
+Kraken: 0.02121000   SELL
+Poloniex: 0.02118679
+
+2018-02-25 06:49:14.224556
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.63%
+
+Bitstamp: 0.02106571   BUY
+Bitfinex: 0.021173
+Kraken: 0.02119900   SELL
+Poloniex: 0.02118679
+
+2018-02-25 06:49:23.993115
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.64%
+
+Bitstamp: 0.02106571   BUY
+Bitfinex: 0.021173
+Kraken: 0.02120000   SELL
+Poloniex: 0.02118679
+
+2018-02-25 06:49:33.588664
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.63%
+
+Bitstamp: 0.02106571   BUY
+Bitfinex: 0.021173
+Kraken: 0.02119800   SELL
+Poloniex: 0.02118679
+
+2018-02-25 06:49:42.752188
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02106571   BUY
+Bitfinex: 0.021206   SELL
+Kraken: 0.02119800
+Poloniex: 0.02110073
+
+2018-02-25 06:49:51.817707
+
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02106571   BUY
+Bitfinex: 0.021206   SELL
+Poloniex: 0.02110073
+
+2018-02-25 06:50:00.923227
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02106571   BUY
+Bitfinex: 0.021206   SELL
+Kraken: 0.02119800
+Poloniex: 0.02110073
+
+2018-02-25 06:50:14.892026
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.84%
+
+Bitstamp: 0.02122000
+Bitfinex: 0.021215
+Kraken: 0.02137500   SELL
+Poloniex: 0.02119723   BUY
+
+2018-02-25 07:41:59.296588
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02170001
+Bitfinex: 0.02176
+Kraken: 0.02176200   SELL
+Poloniex: 0.02163001   BUY
+
+2018-02-25 08:43:50.339848
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.71%
+
+Bitstamp: 0.02185799   SELL
+Bitfinex: 0.021772
+Kraken: 0.02170300   BUY
+Poloniex: 0.02177616
+
+2018-02-25 09:28:52.032376
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.71%
+
+Bitstamp: 0.02185799   SELL
+Bitfinex: 0.021772
+Kraken: 0.02170300   BUY
+Poloniex: 0.02178825
+
+2018-02-25 09:29:01.996946
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02175952
+Bitfinex: 0.021816
+Kraken: 0.02187000   SELL
+Poloniex: 0.02173715   BUY
+
+2018-02-25 10:12:52.353393
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.67%
+
+Bitstamp: 0.02188000
+Bitfinex: 0.021806   BUY
+Kraken: 0.02195300   SELL
+Poloniex: 0.02186510
+
+2018-02-25 13:01:02.777533
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.65%
+
+Bitstamp: 0.02182810
+Bitfinex: 0.021811   BUY
+Kraken: 0.02195300   SELL
+Poloniex: 0.02186507
+
+2018-02-25 13:01:45.760991
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02194498
+Bitfinex: 0.021889
+Kraken: 0.02183600   BUY
+Poloniex: 0.02196970   SELL
+
+2018-02-25 13:09:22.572119
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.61%
+
+Bitstamp: 0.02194498
+Bitfinex: 0.021915
+Kraken: 0.02183600   BUY
+Poloniex: 0.02196903   SELL
+
+2018-02-25 13:09:52.449828
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.60%
+
+Bitstamp: 0.02194498
+Bitfinex: 0.021888
+Kraken: 0.02183600   BUY
+Poloniex: 0.02196789   SELL
+
+2018-02-25 13:10:24.014634
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.81%
+
+Bitstamp: 0.02172359
+Bitfinex: 0.021758
+Kraken: 0.02178300   SELL
+Poloniex: 0.02160807   BUY
+
+2018-02-25 13:34:11.330271
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.62%
+
+Bitstamp: 0.02178997   SELL
+Bitfinex: 0.021683
+Kraken: 0.02165600   BUY
+Poloniex: 0.02174697
+
+2018-02-25 13:40:31.340761
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.64%
+
+Bitstamp: 0.02178997   SELL
+Bitfinex: 0.021676
+Kraken: 0.02171800
+Poloniex: 0.02165057   BUY
+
+2018-02-25 13:41:31.320192
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.64%
+
+Bitstamp: 0.02178997   SELL
+Bitfinex: 0.021671
+Kraken: 0.02165200   BUY
+Poloniex: 0.02166161
+
+2018-02-25 13:41:50.243274
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.64%
+
+Bitstamp: 0.02178997   SELL
+Bitfinex: 0.02167
+Kraken: 0.02165200   BUY
+Poloniex: 0.02166161
+
+2018-02-25 13:42:00.711873
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.79%
+
+Bitstamp: 0.02178997   SELL
+Bitfinex: 0.02167
+Kraken: 0.02165200
+Poloniex: 0.02161923   BUY
+
+2018-02-25 13:42:11.479488
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 0.64%
+
+Bitstamp: 0.02178997   SELL
+Bitfinex: 0.02167
+Kraken: 0.02165200   BUY
+Poloniex: 0.02165405
+
+2018-02-25 13:42:21.347053
+
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+Kraken get rate error!!!
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.46%
+
+Bitstamp: 0.02209290   BUY
+Bitfinex: 0.022137
+Kraken: 0.02241600   SELL
+Poloniex: 0.02214009
+
+2018-02-25 15:40:54.232214
+
+
+<<<<<<<<<<<<< GREAT THAN 0.6% >>>>>>>>>>>>>>
+Exchange difference: 1.46%
+
+Bitstamp: 0.02209290   BUY
+Bitfinex: 0.022138
+Kraken: 0.02241600   SELL
+Poloniex: 0.02214009
+
+2018-02-25 15:41:04.220703
+
